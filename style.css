@@ -54,6 +54,7 @@ p {
 
 .notes input {
     opacity: 0;
+    position: absolute;
 }
 
 .notes label {
